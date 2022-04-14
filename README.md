@@ -1,2 +1,8 @@
-# DemoMATLAB2
- Esto es un demo.
+# MATLAB BÁSICO
+
+## INTRODUCCIÓN
+
+- Nombre: Santiago Quiñones
+- Fecha: 2022/04/14
+
+
